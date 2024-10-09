@@ -1,6 +1,10 @@
 
 body {
     font-family: "Sono", sans-serif;
+    background-image: url('https://images4.alphacoders.com/134/1347180.png');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
   }
 
 .pricing-container{
@@ -11,7 +15,7 @@ body {
     gap: 2rem;
 }
 .pricing-plan{
-    background-color: hsl(0, 0%, 90%);
+    background-color: hsla(311, 100%, 50%, 0.733);
     text-align: center;
     padding: 20px;
     border-radius: 10%;
